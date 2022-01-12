@@ -15,3 +15,4 @@ Registered users
 - See all routines, activities, and my routines
 - Create new routines & activities
 
+Credits to: Jame Hughes (tgpretender)
