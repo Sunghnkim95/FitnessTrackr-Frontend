@@ -7,7 +7,7 @@ Fitness application functionalities includes:
 Unregistered visitors
 - Sign up
 - See all routines and activities
-- 
+
 Registered users
 - Login 
 - Meaningful messages if an error occurred for correction
