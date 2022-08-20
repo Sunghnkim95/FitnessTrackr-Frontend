@@ -16,3 +16,6 @@ Registered users
 - Create new routines & activities
 
 Credits to: James Hughes (tgpretender)
+
+Checkout the website!
+https://jpsandwich-fitnesstrackr.netlify.app/
